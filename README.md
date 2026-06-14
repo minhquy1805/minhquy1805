@@ -25,10 +25,11 @@ I'm building **CommercialNews**, a production-style news platform with ASP.NET C
 **CommercialNews**  
 A full-stack news management platform built with .NET, SQL Server, React, Docker, RabbitMQ, and Google Cloud.
 
+- Public Website: https://minhquy.dev/
+- Admin Demo: https://admin.minhquy.dev
 - Backend: https://github.com/minhquy1805/CommercialNews
 - Frontend: https://github.com/minhquy1805/commercialnews-web
 - Deployment: https://github.com/minhquy1805/commercialnews-deploy
-- Admin Demo: https://admin.minhquy.dev
 - Portfolio: https://portfolio.minhquy.dev
 
 ## 📫 Contact
